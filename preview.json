@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"MARGIN":100,"DIVISION_PROBABILITY":0.5,"PALETTE":[{"red":254.0,"green":247.0,"blue":213.0,"alpha":255.0},{"red":233.0,"green":207.0,"blue":162.0,"alpha":255.0},{"red":190.0,"green":156.0,"blue":107.0,"alpha":255.0},{"red":30.0,"green":19.0,"blue":8.0,"alpha":255.0},{"red":49.0,"green":28.0,"blue":15.0,"alpha":255.0}],"SEED":11,"GAUSSIAN_NOISE_AMOUNT":3.5,"WIDTH":1000,"HEIGHT":1000,"NUMBER_OF_RECURSIONS":20000,"BACKGROUND_COLOR":{"red":255.0,"green":255.0,"blue":255.0,"alpha":255.0}}}
